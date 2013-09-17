@@ -1,0 +1,1 @@
+# Workaround for heroku run exit codes
